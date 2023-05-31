@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a student at an IT school 🗿.
 
-### Why are we here, just to suffer?
-I'm supposed to create a website with React 🗿. How am I supposed to do such a thing? I really don't know.
+### Bahnwärter Thiel
 
 <!--
 **awjolanda/awjolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
