@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi þere 👋
 I'm a student at an IT school 🗿.
-
-### Bahnwärter Thiel
-
 <!--
 **awjolanda/awjolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
