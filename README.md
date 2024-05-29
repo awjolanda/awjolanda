@@ -1,5 +1,7 @@
 ### Hi þere 👋
 I'm a student at an IT school 🗿.
+
+In my spare time I program a little and learn about languages, hence why I use þorn in my writing.
 <!--
 **awjolanda/awjolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
