@@ -1,7 +1,9 @@
 ### Hi þere 👋
-I'm a student at an IT school 🗿.
+In my spare time I program a little.
 
-In my spare time I program a little and learn about languages, hence why I use þorn in my writing.
+I mainly use C# and Blazor at work and JavaScript, HTML and CSS on a trashy website I'm making when I'm not at work.
+
+I'm also socially awkward and cannot communicate effectively :3
 <!--
 **awjolanda/awjolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
