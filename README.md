@@ -1,7 +1,8 @@
 ### Hi þere 👋
 In my spare time I program a little.
 
-I mainly use C# and Blazor at work and JavaScript, HTML and CSS on a trashy website I'm making when I'm not at work.
+At work I use C#, Blazor and TailwindCSS to develop webapps. 
+I dabble in JS occasionally (only if I have to)
 
 I'm also socially awkward and cannot communicate effectively :3
 <!--
