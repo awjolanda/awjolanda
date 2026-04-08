@@ -4,7 +4,7 @@ In my spare time I program a little.
 At work I use C#, Blazor and TailwindCSS to develop webapp frontends. 
 I dabble in JS occasionally (only if I have to)
 
-I'm also socially awkward and cannot communicate effectively :3
+I'm also socially awkward, cannot communicate effectively and don't have much self-esteem :3
 <!--
 **awjolanda/awjolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
